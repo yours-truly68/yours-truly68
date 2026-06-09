@@ -1,3 +1,179 @@
+<div align="center">
+
+# 🚀 Mohammad Razim
+
+### Software Engineer • Full-Stack Developer • Problem Solver
+
+> Building scalable applications, secure APIs, and clean user experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+FastAPI;PostgreSQL+%7C+MongoDB+%7C+Redis;Building+KanDo+Project+Management+Platform" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Mohammad Razim
+location: Karnataka, India
+role: Software Engineer
+education: Ramaiah Institute of Technology
+
+currently_building:
+  - KanDo (Kanban Project Management Platform)
+
+currently_learning:
+  - System Design
+  - Advanced Backend Architecture
+  - Distributed Systems
+
+interests:
+  - Backend Engineering
+  - Full Stack Development
+  - Authentication & Security
+  - Databases
+  - Software Architecture
+```
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000?style=for-the-badge)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge\&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+
+### Database & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge\&logo=redis)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma)
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 KanDo
+
+A Jira/Trello-inspired Project Management Platform.
+
+#### Features
+
+* JWT Authentication
+* Refresh Token Rotation
+* Role-Based Access Control
+* Workspace Management
+* Project Management
+* Kanban Boards
+* Task Tracking
+* Team Collaboration
+
+**Stack:** Next.js • TypeScript • FastAPI • PostgreSQL • SQLAlchemy
+
+🔗 Repository: [KAN_DO_LINK]
+
+---
+
+### 🍔 Zomatoes
+
+Food Ordering & Restaurant Discovery Platform.
+
+#### Features
+
+* Restaurant Discovery
+* Search & Filtering
+* Menu Browsing
+* Responsive Design
+* API Integration
+* RabbitMQ Event Processing
+
+**Stack:** React • Node.js • MongoDB • RabbitMQ
+
+🔗 Repository: [ZOMATOES_LINK]
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+* Build KanDo to production quality
+* Master System Design fundamentals
+* Deepen FastAPI and PostgreSQL expertise
+* Contribute to Open Source
+* Land a Software Engineering role
+
+---
+
+## 🌐 Connect With Me
+
+📧 **[mohammedrazim880@gmail.com](mailto:mohammedrazim880@gmail.com)**
+
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
+
+🐙 **GitHub:** YOUR_GITHUB_URL
+
+---
+
+<div align="center">
+
+### "First make it work. Then make it right. Then make it scalable."
+
+</div>
 # Hi there, I'm Mohammad Razim 👋
 
 ## Software Engineer | Full-Stack Developer
