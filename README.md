@@ -1,12 +1,8 @@
-<img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/d4b51a65-1c74-4135-8fc5-0ecdb4b2bbae" /><img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/845e8308-30e3-48a5-8424-4f4956279aac" /><div align="center">
-
 # 🚀 Mohammad Razim
 
 ### Software Engineer • Full-Stack Developer • Problem Solver
 
 > Building scalable applications, secure APIs, and clean user experiences.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+FastAPI;PostgreSQL+%7C+MongoDB+%7C+Redis;Building+KanDo+Project+Management+Platform" />
 
 </div>
 
