@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/d4b51a65-1c74-4135-8fc5-0ecdb4b2bbae" /><img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/845e8308-30e3-48a5-8424-4f4956279aac" /><div align="center">
 
 # 🚀 Mohammad Razim
 
@@ -78,7 +78,8 @@ interests:
 ## 🚀 Featured Projects
 
 ### 📋 KanDo
-![Uploading image.png…]()
+
+<img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/7bc63fa3-a6a3-4307-9fc9-7c6676924cf4" />
 
 
 A Jira/Trello-inspired project management platform built using modern software engineering practices.
