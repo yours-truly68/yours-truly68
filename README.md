@@ -147,43 +147,7 @@ React • JavaScript • Node.js • Express.js • MongoDB • RabbitMQ
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-## 🎯 Current Goals
-
-* Build KanDo to production quality
-* Master System Design fundamentals
-* Deepen FastAPI and PostgreSQL expertise
-* Contribute to Open Source
-* Land a Software Engineering role
-
----
-
-<div align="center">
-
-### "Currently teaching Postgres who's in charge!"
-
-</div>
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
----
+## 
 
 ## 📫 Connect With Me
 
