@@ -79,142 +79,6 @@ interests:
 
 ### 📋 KanDo
 
-A Jira/Trello-inspired Project Management Platform.
-
-#### Features
-
-* JWT Authentication
-* Refresh Token Rotation
-* Role-Based Access Control
-* Workspace Management
-* Project Management
-* Kanban Boards
-* Task Tracking
-* Team Collaboration
-
-**Stack:** Next.js • TypeScript • FastAPI • PostgreSQL • SQLAlchemy
-
-🔗 Repository: [KAN_DO_LINK]
-
----
-
-### 🍔 Zomatoes
-
-Food Ordering & Restaurant Discovery Platform.
-
-#### Features
-
-* Restaurant Discovery
-* Search & Filtering
-* Menu Browsing
-* Responsive Design
-* API Integration
-* RabbitMQ Event Processing
-
-**Stack:** React • Node.js • MongoDB • RabbitMQ
-
-🔗 Repository: [ZOMATOES_LINK]
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-* Build KanDo to production quality
-* Master System Design fundamentals
-* Deepen FastAPI and PostgreSQL expertise
-* Contribute to Open Source
-* Land a Software Engineering role
-
----
-
-## 🌐 Connect With Me
-
-📧 **[mohammedrazim880@gmail.com](mailto:mohammedrazim880@gmail.com)**
-
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
-
-🐙 **GitHub:** YOUR_GITHUB_URL
-
----
-
-<div align="center">
-
-### "First make it work. Then make it right. Then make it scalable."
-
-</div>
-# Hi there, I'm Mohammad Razim 👋
-
-## Software Engineer | Full-Stack Developer
-
-I am a Software Engineering student and Full-Stack Developer passionate about building scalable, production-grade web applications.
-
-My primary focus is on designing robust backend systems, secure authentication workflows, scalable databases, and modern user interfaces. I enjoy taking products from idea to deployment while applying software engineering principles, clean architecture, and maintainable code practices.
-
-Currently building **KanDo**, a Kanban-based Project Management Platform inspired by Jira and Trello.
-
----
-
-## 🚀 About Me
-
-* 💻 Full-Stack Developer focused on modern web technologies
-* 🏗 Building production-grade applications using React, Next.js, FastAPI, and PostgreSQL
-* 🔐 Interested in Authentication, Authorization, API Security, and System Design
-* 📚 Continuously improving my knowledge of Data Structures & Algorithms
-* 🎨 Former UI/UX & Frontend Development Intern at Dflix
-* ⚡ Enjoy transforming complex requirements into scalable software solutions
-
----
-
-## 🛠 Technical Toolbox
-
-| Category       | Technologies                                                               |
-| -------------- | -------------------------------------------------------------------------- |
-| Languages      | JavaScript, TypeScript, Python, SQL, C                                     |
-| Frontend       | React.js, Next.js, HTML5, CSS3, Tailwind CSS, ShadCN UI                    |
-| Backend        | FastAPI, Node.js, Express.js, REST APIs                                    |
-| Databases      | PostgreSQL, MongoDB, SQLAlchemy, Mongoose, Redis                           |
-| Authentication | JWT, Refresh Tokens, RBAC                                                  |
-| Tools          | Git, GitHub, Postman, VS Code, Figma                                       |
-| Concepts       | DSA, OOP, System Design, Database Design, API Security, Clean Architecture |
-
----
-
-## 🚀 Featured Projects
-
-### 📂 KanDo — Kanban Project Management Platform
-
 A Jira/Trello-inspired project management platform built using modern software engineering practices.
 
 #### Key Features
@@ -267,7 +131,7 @@ React • JavaScript • Node.js • Express.js • MongoDB • RabbitMQ
 * Integrated backend APIs for dynamic content delivery
 * Optimized user experience across multiple device sizes
 
-🔗 Repository:https://github.com/yours-truly68/zomato-clone | Demo link: https://zomato-clone-1d3p.vercel.app
+🔗 Repository:https://github.com/yours-truly68/zomato-clone   |   Demo link: https://zomato-clone-1d3p.vercel.app
 
 ---
 
@@ -283,23 +147,35 @@ React • JavaScript • Node.js • Express.js • MongoDB • RabbitMQ
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Metrics
 
-```text
-Building Production-Grade Applications
-██████████████████░░ 90%
+<div align="center">
 
-Backend Engineering
-█████████████████░░░ 85%
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-System Design
-████████████████░░░░ 80%
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Data Structures & Algorithms
-███████████████░░░░░ 75%
-```
+</div>
 
 ---
+
+
+## 🎯 Current Goals
+
+* Build KanDo to production quality
+* Master System Design fundamentals
+* Deepen FastAPI and PostgreSQL expertise
+* Contribute to Open Source
+* Land a Software Engineering role
+
+---
+
+<div align="center">
+
+### "Currently teaching Postgres who's in charge!"
+
+</div>
+
 
 ## 📊 GitHub Stats
 
