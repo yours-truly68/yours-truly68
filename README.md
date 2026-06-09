@@ -1,8 +1,12 @@
+<div align="center">
+
 # 🚀 Mohammad Razim
 
 ### Software Engineer • Full-Stack Developer • Problem Solver
 
 > Building scalable applications, secure APIs, and clean user experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+FastAPI;PostgreSQL+%7C+MongoDB+%7C+Redis;Building+KanDo+Project+Management+Platform" />
 
 </div>
 
