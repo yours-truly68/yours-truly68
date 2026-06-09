@@ -155,7 +155,7 @@ React • JavaScript • Node.js • Express.js • MongoDB • RabbitMQ
 
 💼 LinkedIn: https://www.linkedin.com/in/mohammadrazim880/
 
-🐙 GitHub: [MY GITHUB] (https://github.com/yours-truly68)
+🐙 GitHub: (https://github.com/yours-truly68)
 
 ---
 
