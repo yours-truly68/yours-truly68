@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table styles="border:none">
 <tr>
 <td width="35%" align="center" valign="top">
 
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
 
 <br/>
 
@@ -47,7 +47,7 @@ role: Full-Stack Developer
 
 currently_building:
   - KanDo
-  - Zomatoes
+  - My future?
 
 currently_learning:
   - System Design
@@ -62,7 +62,7 @@ interests:
   - Software Architecture
 ```
 
-> Turning caffeine into scalable software and occasionally convincing bugs to become features.
+> If you are hungry, then eat!
 
 </td>
 </tr>
