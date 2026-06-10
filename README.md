@@ -40,8 +40,6 @@ fixes: in progress
 
 <td width="65%" valign="top">
 
-# 👋 Hey, I'm Mohammad Razim
-
 ```yaml
 role: Full-Stack Developer
 
