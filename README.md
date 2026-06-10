@@ -19,43 +19,36 @@
 
 ## 👨‍💻 About Me
 
-## 🐧 Meet Penjuin.exe
+<table>
+<tr>
+<td width="35%" align="center">
 
-<div display="flex">
-  
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5afbb434-e4bc-4283-a46f-5c869d400345" />
 
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3bcd24b0-d800-448c-aa97-9f7a10f4ecd3" />
+</td>
 
+<td width="65%">
+
+## 👨‍💻 About Me
 
 ```yaml
-status: coding...
+name: Mohammad Razim
 role: Full-Stack Developer
 
-skills:
-  frontend:
-    - React
-    - Next.js
-    - TypeScript
+building:
+  - KanDo
+  - Zomatoes
 
-  backend:
-    - Node.js
-    - FastAPI
+learning:
+  - System Design
+  - Distributed Systems
+  - Backend Architecture
 
-  databases:
-    - PostgreSQL
-    - MongoDB
-
-current_mission:
-  - Build KanDo
-  - Scale Zomatoes
-  - Learn System Design
-
-debugging_level: maximum
-coffee_dependency: true
-```
-
-> The penguin may look harmless. The database migrations are not.
-</div>
+focus:
+  - Scalable Web Applications
+  - Backend Engineering
+  - Authentication & Security
+  - Database Design
 
 
 <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
