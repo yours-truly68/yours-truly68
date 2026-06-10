@@ -20,7 +20,10 @@
 ## 👨‍💻 About Me
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
->HUH??
+<img width="472" height="485" alt="image" src="https://github.com/user-attachments/assets/cb71fba1-6650-4810-b0c4-218d3bc11642" />
+
+
+> HUH! WHO'S ASKING?
 
 > If you are hungry, then eat!
 
