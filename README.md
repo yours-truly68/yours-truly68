@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<table>
 <tr>
 <td width="35%" align="center" valign="top">
 
@@ -38,7 +38,7 @@ fixes: in progress
 
 </td>
 
-<td width="65%" valign="top">
+<td width="85%" valign="top">
 
 ```yaml
 role: Full-Stack Developer
