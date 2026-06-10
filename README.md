@@ -19,26 +19,8 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
-
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
 
-<br/>
-
-### 🐧 Razim.exe
-
-```yaml
-status: coding...
-coffee: required
-bugs: inevitable
-fixes: in progress
-```
-
-</td>
-
-<td width="85%" valign="top">
 
 ```yaml
 role: Full-Stack Developer
@@ -61,10 +43,6 @@ interests:
 ```
 
 > If you are hungry, then eat!
-
-</td>
-</tr>
-</table>
 
 
 <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
