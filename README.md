@@ -34,8 +34,9 @@ interests:
   - Authentication & Security
   - Databases
   - Software Architecture
+
 resume:
-  - https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing
+  - <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing">Resume<a/>
 ```
 
 ---
