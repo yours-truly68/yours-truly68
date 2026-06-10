@@ -19,28 +19,38 @@
 
 ## 👨‍💻 About Me
 
+## 🐧 Meet <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3bcd24b0-d800-448c-aa97-9f7a10f4ecd3" />
+
+
 ```yaml
-name: Mohammad Razim
-location: Karnataka, India
-role: Software Engineer
-education: Ramaiah Institute of Technology
+status: coding...
+role: Full-Stack Developer
 
-currently_building:
-  - KanDo (Kanban Project Management Platform)
+skills:
+  frontend:
+    - React
+    - Next.js
+    - TypeScript
 
-currently_learning:
-  - System Design
-  - Advanced Backend Architecture
-  - Distributed Systems
+  backend:
+    - Node.js
+    - FastAPI
 
-interests:
-  - Backend Engineering
-  - Full Stack Development
-  - Authentication & Security
-  - Databases
-  - Software Architecture
+  databases:
+    - PostgreSQL
+    - MongoDB
 
+current_mission:
+  - Build KanDo
+  - Scale Zomatoes
+  - Learn System Design
+
+debugging_level: maximum
+coffee_dependency: true
 ```
+
+> The penguin may look harmless. The database migrations are not.
+
 
 <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
 
