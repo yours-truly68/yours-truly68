@@ -5,7 +5,7 @@
 ### Software Engineer • Full-Stack Developer • Problem Solver
 
 > Building scalable applications, secure APIs, and clean user experiences.
-> <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target=_blank styles="color:vioet'>📄 Mohammad_Razim_Resume</a>
+<a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target=_blank styles="color:vioet'>📄 Mohammad_Razim_Resume</a>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+FastAPI;PostgreSQL+%7C+MongoDB+%7C+Redis;Building+KanDo+Project+Management+Platform" />
