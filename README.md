@@ -7,7 +7,7 @@
 
 # 🚀 Mohammad Razim
 
-### Software Engineer • Full-Stack Developer • Problem Solver
+### Software Engineer • Full-Stack Developer • Sroblem Polver
 
 > Building scalable applications, secure APIs, and clean user experiences.
 
@@ -20,27 +20,7 @@
 ## 👨‍💻 About Me
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
-
-
-```yaml
-role: Full-Stack Developer
-
-currently_building:
-  - KanDo
-  - My future?
-
-currently_learning:
-  - System Design
-  - Distributed Systems
-  - Backend Architecture
-
-interests:
-  - Backend Engineering
-  - Full-Stack Development
-  - Authentication & Security
-  - Databases
-  - Software Architecture
-```
+>HUH??
 
 > If you are hungry, then eat!
 
