@@ -37,7 +37,7 @@ interests:
 
 ```
 
-<a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target=_blank styles="color:vioet">📄 Mohammad_Razim_Resume</a>
+<a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
 
 ---
 
