@@ -21,34 +21,52 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5afbb434-e4bc-4283-a46f-5c869d400345" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/7fd8eb77-7753-4e24-816e-b9ecf09fd418" />
+
+<br/>
+
+### 🐧 Razim.exe
+
+```yaml
+status: coding...
+coffee: required
+bugs: inevitable
+fixes: in progress
+```
 
 </td>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-## 👨‍💻 About Me
+# 👋 Hey, I'm Mohammad Razim
 
 ```yaml
-name: Mohammad Razim
 role: Full-Stack Developer
 
-building:
+currently_building:
   - KanDo
   - Zomatoes
 
-learning:
+currently_learning:
   - System Design
   - Distributed Systems
   - Backend Architecture
 
-focus:
-  - Scalable Web Applications
+interests:
   - Backend Engineering
+  - Full-Stack Development
   - Authentication & Security
-  - Database Design
+  - Databases
+  - Software Architecture
+```
+
+> Turning caffeine into scalable software and occasionally convincing bugs to become features.
+
+</td>
+</tr>
+</table>
 
 
 <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
