@@ -19,7 +19,12 @@
 
 ## 👨‍💻 About Me
 
-## 🐧 Meet <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3bcd24b0-d800-448c-aa97-9f7a10f4ecd3" />
+## 🐧 Meet Penjuin.exe
+
+<div display="flex">
+  
+
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3bcd24b0-d800-448c-aa97-9f7a10f4ecd3" />
 
 
 ```yaml
@@ -50,6 +55,7 @@ coffee_dependency: true
 ```
 
 > The penguin may look harmless. The database migrations are not.
+</div>
 
 
 <a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
