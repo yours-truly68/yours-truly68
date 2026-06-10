@@ -79,10 +79,10 @@ interests:
 
 ### 📋 KanDo
 
-<img width="1705" height="995" alt="image" src="https://github.com/user-attachments/assets/7bc63fa3-a6a3-4307-9fc9-7c6676924cf4" />
-
-
 A Jira/Trello-inspired project management platform built using modern software engineering practices.
+
+<img width="1698" height="942" alt="image" src="https://github.com/user-attachments/assets/0aa69446-960c-4e1e-b90b-a21d2eb48c98" />
+
 
 #### Key Features
 
