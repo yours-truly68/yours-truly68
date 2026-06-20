@@ -155,6 +155,7 @@ React • JavaScript • Node.js • Express.js • MongoDB • RabbitMQ
 
 > "Building software that is scalable, secure, and maintainable — one project at a time."
 
-<img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/1810ccda-3f36-42b0-88e3-fec35d556d8a" />
+<img width="1400" height="400" alt="image" src="https://github.com/user-attachments/assets/b48a58a6-8fbe-4d8c-8906-11ad1e38e9bf" />
+
 
 
