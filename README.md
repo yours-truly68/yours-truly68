@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 🚀 Mohammad Razim
+#  Mohammad Razim
 
 ### Software Engineer • Full-Stack Developer • Sroblem Polver
 
@@ -25,7 +25,7 @@
 
 > HUH! WHO'S ASKING?
 
-<a href="[https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing](https://drive.google.com/file/d/1-9MH20_L-W9YWwXKhkiGis-I9Br_Hug9/view?usp=sharing)" target="_blank">📄 Mohammad_Razim_Resume</a>
+<a href="https://drive.google.com/file/d/1dkXfKP8hykQD7a3nQVTMr5GmhzQjBPGu/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
 
 ---
 
