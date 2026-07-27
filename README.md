@@ -27,6 +27,8 @@
 
 <a href="https://drive.google.com/file/d/1-9MH20_L-W9YWwXKhkiGis-I9Br_Hug9/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
 
+<a href="https://my-portfolio-43o7opj9h-mohammedrazim880-gmailcoms-projects.vercel.app/" target="_blank" > Mohammad Razim Portfolio</a>
+
 ---
 
 ## ⚡ Tech Stack
