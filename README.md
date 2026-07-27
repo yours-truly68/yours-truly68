@@ -8,8 +8,6 @@
 
 </p>
 
-<h1 align="center">Mohammad Razim</h1>
-
 <p align="center">
 
 Software Engineer • Full-Stack AI Engineer • Building thoughtful software, intelligent systems, and beautiful user experiences.
@@ -242,26 +240,6 @@ React • Node.js • Express • MongoDB • RabbitMQ
 ### Tech
 
 Next.js • FastAPI • PostgreSQL
-
----
-
-# 📖 Technical Writing
-
-I enjoy writing about topics that help me understand systems more deeply and share that understanding with others.
-
-## Medium
-
-- **The Geometry of Memory: How Rotary Position Embeddings Scaled LLMs from 4k to 1 Million Tokens**
-
-- **Acid Properties Beyond What's Generally Discussed and Taught**
-
----
-
-## LinkedIn
-
-I regularly publish engineering notes, software insights, and AI learning posts on LinkedIn.
-
-*(Add LinkedIn profile or post collection link here.)*
 
 ---
 
