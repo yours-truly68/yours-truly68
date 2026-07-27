@@ -4,7 +4,7 @@
 <!-- Replace with your Banner -->
 <!-- ========================= -->
 
-<img src="https://github.com/user-attachments/assets/a28fb74b-f68c-429d-a71a-ea6c5e9e1db1" alt="Banner" width="100%">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/62ad9975-cb8f-4e5a-b699-937ba19a1923" />
 
 </p>
 
