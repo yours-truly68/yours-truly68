@@ -168,7 +168,7 @@ A production-grade project management platform inspired by Linear, Jira, Plane, 
 
 ### Tech
 
-Next.js • TypeScript • FastAPI • PostgreSQL • SQLAlchemy
+Next.js • TypeScript • FastAPI • PostgreSQL • SQLAlchemy • Prisma
 
 ---
 
