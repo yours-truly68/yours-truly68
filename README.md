@@ -96,7 +96,6 @@ Whether I'm designing a polished frontend, architecting APIs, experimenting with
 - AI Agents
 - RAG
 - Vector Databases
-- Prompt Engineering
 
 ---
 
