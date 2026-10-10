@@ -1,307 +1,194 @@
-<p align="center">
+# Mohammad Razim — Software Engineer
 
-<!-- ========================= -->
-<!-- Replace with your Banner -->
-<!-- ========================= -->
+\<p align="center">   \<img width="100%" alt="Mohammad Razim" src="[https://github.com/user-attachments/assets/62ad9975-cb8f-4e5a-b699-937ba19a1923](https://github.com/user-attachments/assets/62ad9975-cb8f-4e5a-b699-937ba19a1923)" />
+\</p>
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/62ad9975-cb8f-4e5a-b699-937ba19a1923" />
+\<p align="center">
+&#x20; \<strong>Software Engineer · Full-Stack Development · Applied AI\</strong>
+&#x20; \<br />
+&#x20; Building software systems, AI-powered products, and tools for reliable agent workflows.
+\</p>
 
-</p>
+\<p align="center">
+&#x20; \<a href="[https://my-portfolio-b4yn3vhqw-mohammedrazim880-gmailcoms-projects.vercel.app/](https://my-portfolio-b4yn3vhqw-mohammedrazim880-gmailcoms-projects.vercel.app/)">Portfolio\</a>
+&#x20; &nbsp;·&nbsp;
+&#x20; \<a href="[https://linkedin.com/in/mohammadrazim880](https://linkedin.com/in/mohammadrazim880)">LinkedIn\</a>
+&#x20; &nbsp;·&nbsp;
+&#x20; \<a href="[https://github.com/yours-truly68](https://github.com/yours-truly68)">GitHub\</a>
+&#x20; &nbsp;·&nbsp;
+&#x20; \<a href="[https://medium.com/@mohammadrazim880](https://medium.com/@mohammadrazim880)">Medium\</a>
+\</p>
 
-<p align="center">
-
-Software Engineer • Full-Stack AI Engineer • Building thoughtful software, intelligent systems, and beautiful user experiences.
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1500&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Engineer;React+%7C+Next.js+%7C+TypeScript;FastAPI+%7C+Python+%7C+Node.js;Building+AI+Agents+and+Production+Software;Always+Learning+Something+New" />
-
-</p>
-
----
-
-# 👋 Hello There.
-
-> *I enjoy building software that sits at the intersection of engineering, design, and artificial intelligence.*
-
-I'm Mohammad Razim, a Software Engineer passionate about building products that solve real problems.
-
-My interests span modern web engineering, scalable backend systems, AI-powered applications, developer tooling, and clean user experiences.
-
-Whether I'm designing a polished frontend, architecting APIs, experimenting with LLMs, or writing technical articles, I enjoy understanding systems deeply and building them thoughtfully.
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1800&center=true&vCenter=true&width=750&lines=Engineering+Full-Stack+Applications;Building+AI-Powered+Products;Exploring+Agent+Infrastructure;Turning+Ideas+Into+Working+Systems](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&pause=1800\&center=true\&vCenter=true\&width=750\&lines=Engineering+Full-Stack+Applications;Building+AI-Powered+Products;Exploring+Agent+Infrastructure;Turning+Ideas+Into+Working+Systems)" alt="Engineering interests" />
+\</p>
 
 ---
 
-# 🌐 Portfolio
+## About
 
-**Portfolio**
+I'm Mohammad Razim, a software engineer interested in the intersection of backend engineering, full-stack product development, and artificial intelligence.
 
-> [https://your-portfolio-link.com](https://my-portfolio-b4yn3vhqw-mohammedrazim880-gmailcoms-projects.vercel.app/)
+I enjoy understanding how systems work end to end — from designing APIs and data models to building user interfaces and integrating LLM-powered workflows.
 
-**Resume**
+My focus is on building useful software, exploring engineering trade-offs, and turning complex ideas into working systems.
 
-> <a href="https://drive.google.com/file/d/1-9MH20_L-W9YWwXKhkiGis-I9Br_Hug9/view?usp=sharing" target="_blank">📄 Mohammad_Razim_Resume</a>
+## Featured Projects
 
+### 01. Forge — AI Workflow Harness
 
----
+\<img width="100%" alt="Forge project screenshot" src="[https://github.com/user-attachments/assets/3787c257-f6f3-49fe-b40b-74735a8d6245](https://github.com/user-attachments/assets/3787c257-f6f3-49fe-b40b-74735a8d6245)" />
 
-# ⚡ Tech Stack
+An AI engineering playground for prototyping and orchestrating intelligent workflows. Forge explores modular agent architectures, tool integration, and workflow execution.
 
-## Languages
+**Engineering focus**
 
-- Python
-- TypeScript
-- JavaScript
-- SQL
+- Modular workflow and agent design
+- Tool integration and orchestration
+- Prompt and workflow experimentation
+- Backend services for AI-powered applications
 
----
+**Stack:** Python · FastAPI · React · Next.js · TypeScript · Inngest
 
-## Frontend
+### 02. RamaiahMart — Student Marketplace
 
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
-- Zustand
-- TanStack Query
+![Uploading image.png…]()
 
----
+A student-focused marketplace concept for the Ramaiah community, designed to make it easier to discover, list, and exchange items within a university ecosystem.
 
-## Backend
+The idea focuses on making campus transactions simpler without introducing unnecessary marketplace complexity.
 
-- FastAPI
-- Node.js
-- Express.js
-- SQLAlchemy
-- REST APIs
-- JWT Authentication
+**Product focus**
 
----
+- Buyer and seller experiences
+- Product listings and discovery
+- Item details and seller contact workflows
+- WhatsApp-based buyer–seller communication
+- Authentication and listing moderation considerations
 
-## Databases
+**Stack:** Next.js · TypeScript · Backend APIs · Database
 
-- PostgreSQL
-- MongoDB
-- Redis
+### 03. KANDo — Project Management Platform
 
----
-
-## AI
-
-- OpenAI SDK
-- LangChain
-- LangGraph
-- AI Agents
-- RAG
-- Vector Databases
-
----
-
-## Dev Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-- Figma
-- VS Code
-
----
-
-#  Featured Projects
-
----
-
-# Forge
-
-> **AI Workflow Harness for Rapid Agent Development**
-
-<!-- ========================= -->
-<!-- Project Image Placeholder -->
-<!-- ========================= -->
-
-<img width="1467" height="839" alt="Forge" src="https://github.com/user-attachments/assets/3787c257-f6f3-49fe-b40b-74735a8d6245" />
+![Uploading Kando-Home.png…]()
 
 
-Forge is an AI engineering playground for rapidly prototyping, testing, and orchestrating intelligent workflows.
+A project management application inspired by modern tools such as Linear, Plane, and Jira. KANDo explores the data and interaction patterns behind collaborative project management.
 
-Built around modular agent architectures, reusable tools, prompt engineering, workflow orchestration, and experimentation.
+**Engineering focus**
 
-### Highlights
+- Workspace and project organization
+- Kanban boards and task management
+- Authentication and role-based access control
+- Activity feeds and notifications
+- Structured backend APIs and relational data modeling
 
-- AI Workflow Harness
-- Modular Agent Architecture
-- Tool Calling
-- Prompt Versioning
-- Workflow Orchestration
-- Developer-first Architecture
+**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · SQLAlchemy
 
-**Tech**
+### 04. Purplexity — AI Search & Research Assistant
 
-Python • FastAPI • React • Next.js • TypeScript • Inngest
+\<img width="100%" alt="Purplexity AI search interface" src="[https://github.com/user-attachments/assets/1f3a14e6-66c0-40c2-b8dc-fe97787cf282](https://github.com/user-attachments/assets/1f3a14e6-66c0-40c2-b8dc-fe97787cf282)" />
+
+An AI research experience that combines search, language models, and source citations to help users explore questions and retrieve relevant information.
+
+**Engineering focus**
+
+- Search-driven conversational workflows
+- Source-aware responses and citations
+- Retrieval-augmented generation
+- Streaming responses and interactive interfaces
+
+**Stack:** Next.js · FastAPI · OpenAI · TypeScript
+
+### 05. Gale — Medical Knowledge Assistant
+
+An AI-powered knowledge assistant focused on retrieving information from medical literature using retrieval-augmented generation.
+
+The project explores the pipeline connecting source documents, searchable knowledge, and conversational retrieval.
+
+**Engineering focus**
+
+- Document processing and retrieval
+- Semantic search over a knowledge base
+- Vector search
+- Conversational question answering
+
+**Stack:** Python · Flask · LangChain · Pinecone · OpenAI
+
+### 06. Zomatoes — Food Ordering Platform
+
+A food-ordering application exploring the workflows behind restaurant discovery, ordering, and multi-role operations.
+
+**Engineering focus**
+
+- Restaurant discovery and ordering
+- Customer authentication
+- Payment integration
+- Admin and seller workflows
+- Order lifecycle and delivery coordination
+
+**Stack:** React · Node.js · Express.js · MongoDB · Razorpay
 
 ---
 
-# KANDo
+## Technical Skills
 
-> **Modern Project Management Platform**
+**Languages**
 
-<img width="1709" height="991" alt="Screenshot 2026-07-09 at 3 03 15 AM" src="https://github.com/user-attachments/assets/d7889a76-31d7-44ef-8817-3ebc00db7d25" />
+Python · TypeScript · JavaScript · SQL
 
+**Frontend Engineering**
 
-A production-grade project management platform inspired by Linear, Jira, Plane, and Notion.
+React · Next.js · Tailwind CSS · shadcn/ui · Zustand · TanStack Query
 
-### Features
+**Backend Engineering**
 
-- Authentication
-- Workspace Management
-- Projects
-- Kanban Boards
-- Tasks
-- Activity Feed
-- Notifications
-- RBAC
-- JWT Authentication
+FastAPI · Node.js · Express.js · SQLAlchemy · REST APIs · JWT Authentication
 
-### Tech
+**Databases & Storage**
 
-Next.js • TypeScript • FastAPI • PostgreSQL • SQLAlchemy • Prisma
+PostgreSQL · MongoDB · Redis · Vector Databases
 
----
+**AI Engineering**
 
-# Gale
+LLM APIs · LangChain · LangGraph · Retrieval-Augmented Generation (RAG) · AI Agents · Embeddings
 
-> **AI Medical Knowledge Assistant**
+**Developer Tools**
 
-
-An AI-powered medical assistant capable of retrieving, understanding, and reasoning over trusted medical literature using Retrieval-Augmented Generation (RAG).
-
-### Features
-
-- Semantic Search
-- PDF Processing
-- Medical Knowledge Base
-- Vector Search
-- Conversational AI
-
-### Tech
-
-Python • Flask • LangChain • Pinecone • OpenAI
+Git · GitHub · Docker · Postman · Figma · VS Code
 
 ---
 
-# Purplexity
+## Areas of Interest
 
-> **AI Search & Research Assistant**
+- AI agent architectures and orchestration
+- LLM application development and evaluation
+- Backend architecture and API design
+- Distributed systems and reliability
+- Developer tooling and AI infrastructure
+- Product engineering and interface design
 
-<img width="1703" height="990" alt="purplexity" src="https://github.com/user-attachments/assets/1f3a14e6-66c0-40c2-b8dc-fe97787cf282" />
+## Writing & Learning
 
-An AI search experience inspired by Perplexity AI that combines web search, reasoning, and citations to deliver grounded answers.
+I enjoy exploring how software systems work, documenting technical ideas, and learning through building.
 
-### Features
+Read my technical writing on [Medium](https://medium.com/@mohammadrazim880).
 
-- AI Search
-- Source Citation
-- Conversational Interface
-- Retrieval
-- Streaming Responses
+## Connect
 
-### Tech
-
-Next.js • FastAPI • OpenAI • TypeScript
-
----
-
-# Jomatoes
-
-> **Modern Food Ordering Platform**
-
-A responsive food ordering platform featuring restaurant discovery, ordering workflows, and scalable backend services.
-
-### Features
-
-- Authentication
-- Restaurant Discovery
-- Ordering
-- Payments
-- Admin Dashboard
-- Seller Dashboard
-- Rider Workflow
-
-### Tech
-
-React • Node.js • Express • MongoDB • RabbitMQ
+- **Portfolio:** [View my work](https://my-portfolio-b4yn3vhqw-mohammedrazim880-gmailcoms-projects.vercel.app/)
+- **LinkedIn:** [mohammadrazim880](https://linkedin.com/in/mohammadrazim880)
+- **GitHub:** [yours-truly68](https://github.com/yours-truly68)
+- **Medium:** [@mohammadrazim880](https://medium.com/@mohammadrazim880)
+- **Resume:** [View my resume](https://drive.google.com/file/d/1-9MH20_L-W9YWwXKhkiGis-I9Br_Hug9/view?usp=sharing)
+- **Email:** [mohammedrazim880@gmail.com](mailto\:mohammedrazim880@gmail.com)
 
 ---
 
-### Tech
+\<p align="center">
+&#x20; \<i>Building thoughtfully. Learning continuously. Engineering with intent.\</i>
+\</p>
 
-Next.js • FastAPI • PostgreSQL
-
----
-
-# 💼 Experience
-
-## AI & Full-Stack Engineering
-
-Worked across frontend engineering, backend systems, AI workflows, and developer tooling while building production-grade applications.
-
-Areas of work include:
-
-- AI Engineering
-- Full-Stack Development
-- API Design
-- Backend Architecture
-- UI Engineering
-- Design Systems
-- Product Development
-
----
-
-## UI/UX & Frontend
-
-Designed interfaces with an emphasis on usability, hierarchy, accessibility, and visual systems while collaborating closely with engineering teams.
-
----
-
-# 🌱 Currently Exploring
-
-- AI Agents
-- Multi-Agent Systems
-- MCP
-- LangGraph
-- Distributed Systems
-- Rust
-- Go
-- LLM Infrastructure
-- AI Product Engineering
-
----
-
-# 📫 Connect
-
-**Portfolio**
-
-[https://your-portfolio-link.com](https://my-portfolio-b4yn3vhqw-mohammedrazim880-gmailcoms-projects.vercel.app/)
-
-**LinkedIn**
-
-https://linkedin.com/in/mohammadrazim880
-
-**Medium**
-
-https://medium.com/@mohammadrazim880
-
-**GitHub**
-
-https://github.com/yours-truly68
-
-**Email**
-
-mohammedrazim880@gmail.com
-
---- 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/b48a58a6-8fbe-4d8c-8906-11ad1e38e9bf" />
-
+\<p align="center">
+&#x20; \<img width="100%" alt="Profile footer" src="[https://github.com/user-attachments/assets/b48a58a6-8fbe-4d8c-8906-11ad1e38e9bf](https://github.com/user-attachments/assets/b48a58a6-8fbe-4d8c-8906-11ad1e38e9bf)" />
+\</p>
