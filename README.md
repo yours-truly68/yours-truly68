@@ -49,6 +49,9 @@ An AI engineering playground for prototyping and orchestrating intelligent workf
 
 ### 02. RamaiahMart — Student Marketplace
 
+<img width="1699" height="1026" alt="Screenshot 2026-10-09 at 8 30 31 AM" src="https://github.com/user-attachments/assets/f5354ffa-2b97-4fad-bf0c-12f96eb82da8" />
+
+
 A student-focused marketplace concept for the Ramaiah community, designed to make it easier to discover, list, and exchange items within a university ecosystem.
 
 - Buyer and seller experiences
