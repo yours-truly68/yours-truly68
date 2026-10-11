@@ -1,4 +1,4 @@
-# Mohammad Razim — Software Engineer
+# Mohammad Razim
 
 <p align="center">
   <img width="100%" alt="Mohammad Razim — Software Engineer" src="https://github.com/user-attachments/assets/62ad9975-cb8f-4e5a-b699-937ba19a1923" />
@@ -27,7 +27,7 @@
 
 I'm Mohammad Razim, a software engineer interested in backend engineering, full-stack product development, and artificial intelligence.
 
-I enjoy understanding systems end to end — from designing APIs and data models to building user interfaces and integrating LLM-powered workflows.
+I enjoy understanding systems end-to-end, from designing APIs and data models to building user interfaces and integrating LLM-powered workflows.
 
 My focus is on building useful software, exploring engineering trade-offs, and turning complex ideas into working systems.
 
